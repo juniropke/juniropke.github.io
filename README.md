@@ -1,6 +1,14 @@
 # juniropke.github.io
 juniropke's Website.
 
+
+-
+
+#TODO
+
+- [x] study Markdown
+- [ ] make _index.html_
+
 # Markdown 사용법
 
 ```html
