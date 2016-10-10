@@ -88,3 +88,12 @@ HTML 언어에서는 `<blockquote>` 요소를 사용하여 인용절을 구조�
 > "보이그룹 샤이니(SHINee)가 주간 음반 차트 1위에 올랐다."<br>
 > "너때문에 흥이 다 깨져버렸어"<br>
 > "네 디오니소스님"
+
+
+### 표
+
+Job Type | Role
+---|---
+Planner | Plan
+Designer | Design
+Developer | Develop
