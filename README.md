@@ -7,7 +7,7 @@ juniropke's Website.
 #TODO
 
 - [x] study Markdown
-- [ ] make _index.html_
+- [ ] make `index.html`
 
 # Markdown 사용법
 
