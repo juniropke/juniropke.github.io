@@ -1,0 +1,70 @@
+/*! arbuzz.css Ã‚Â© yamoo9.net, 2016 */
+.box {
+  background: hsla(0, 0%, 20%, 0.45);
+  color: #fff;
+  text-align: right;
+} 
+
+.dress {
+  height: 320px;
+  line-height: 410px;
+} 
+
+.v-space { 
+  margin-bottom: 20px; 
+} 
+.v-space-top { 
+  margin-top: 20px; 
+} 
+
+.product { 
+  height: 300px; 
+  line-height: 300px; 
+} 
+
+.hx2 { 
+  height: 620px; 
+  line-height: 620px; 
+} 
+.suffix-12 { margin-right: 970px; }
+
+.p1 {
+  position: absolute;
+ font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  margin-top: 200px;
+  left: 100px;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  }
+
+  .p2 {
+  position: absolute;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  margin-top: 30px;
+  left: 350px;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  }
+
+
+  .p3 {
+  position: absolute;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  margin-top: 400px;
+  left: 380px;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  }
+
+  .p4 {
+  position: absolute;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  margin-top: 250px;
+  left: 725px;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  }
